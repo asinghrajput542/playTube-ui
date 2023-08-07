@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1><strong>PlayTube</strong> - watch share & enjoy</h1>
+</div>
 
 <!--
 <h2>
@@ -10,10 +11,10 @@
 
 
 <br/>
-## Description 📋
+## Description
 <P>Welcome to PlayTube, a video streaming platform built using <strong>React</strong>, <strong>Tailwind CSS</strong> and <strong>YouTube's public API</strong>. With PlayTube, you can watch your favorite videos in a user-friendly interface, without any distractions. PlayTube offers seamless video playback, easy video discovery, and a simple user interface. Get started today and discover a world of video content at your fingertips!</p>
 
-</div>
+
 
 ---
 
