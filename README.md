@@ -29,7 +29,7 @@ Welcome to PlayTube, a video streaming platform built using <strong>React</stron
 
 ## Frameworks & Libraries used 📚
 
-`ReactJS` `Tailwind CSS` `React-redux` `react-router-dom` `antd` `react-player`
+`ReactJS` `Tailwind CSS` `React-redux` `react-router-dom` `antd icons` `react-player`
 
 ## Usage 🍕
 
