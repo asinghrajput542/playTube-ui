@@ -1,12 +1,11 @@
 <div align="center">
 
 <h1><strong>PlayTube</strong> - watch share & enjoy</h1>
-</div>
-
 
 <h2>
-  <a href="https://play-tube-ui.vercel.app/">Live Project Link</a>
+  <a href="https://play-tube-ui.vercel.app/">Live URL</a>
 </h2>
+</div>
 
 
 ## Description
